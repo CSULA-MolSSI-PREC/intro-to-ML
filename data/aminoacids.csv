@@ -1,0 +1,21 @@
+name,shortname,molmass,numC
+alanine,Ala,71.0788,3
+arginine,Arg,156.1875,6
+asparagine,Asn,114.1038,4
+aspartic acid,Asp,115.0886,4
+cysteine,Cys,103.1388,3
+glutamic acid,Glu,129.1155,5
+glutamine,Gln,128.1307,5
+glycine,Gly,57.0519,2
+histidine,His,137.1411,6
+isoleucine,Ile,113.1594,6
+leucine,Leu,113.1594,6
+lysine,Lys,128.1741,6
+methionine,Met,131.1926,5
+phenylalanine,Phe,147.1766,9
+proline,Pro,97.1167,5
+serine,Ser,87.0782,3
+threonine,Thr,101.1051,4
+tryptophan,Trp,186.2132,11
+tyrosine,Tyr,163.176,9
+valine,Val,99.1326,5
